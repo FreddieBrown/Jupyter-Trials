@@ -1,2 +1,7 @@
 .mapbox_token
 training_checkpoints/
+data/Reviews.csv
+data/shakespeare.txt
+numberbatch-en-19.08.txt
+review_dataset.pkl
+glove.6B/
